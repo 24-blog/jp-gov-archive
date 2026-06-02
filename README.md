@@ -12,17 +12,3 @@
 ## 利用規約・出典について
 - 本ページで公開しているPDFの著作権は各官公庁並び各自治体に帰属します。
 - 政府標準利用規約（第2.0版）に基づき、公用・検証目的での転載・保全を行っています。
-
-
-Preview<br>
-https://24-blog.github.io/jp-gov-archive/
-
-
-⚠️COPYRIGHT<br>
-The source code of this repository is licensed under MIT.
-
-Original government documents remain subject to their
-respective copyright and usage terms.
-
-Textual commentary written by the repository owner is
-licensed under CC BY-NC-ND 4.0.
