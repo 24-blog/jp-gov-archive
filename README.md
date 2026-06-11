@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-UN-orange)](LICENSE)
+[![License](https://img.shields.io/badge/license-UN-blue)](LICENSE)
 
 
 # 公文書アーカイブ（検証・保全用）
