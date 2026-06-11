@@ -15,3 +15,8 @@
 ## 利用規約・出典について
 - 本ページで公開しているPDFの著作権は各官公庁並び各自治体に帰属します。
 - 政府標準利用規約（第2.0版）に基づき、公用・検証目的での転載・保全を行っています。
+
+
+⚠️COPYRIGHT<br>
+Original government documents remain subject to their
+respective copyright and usage terms.
