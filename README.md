@@ -11,6 +11,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2026-05-25 | 文部科学省 | 同志社国際高等学校の研修旅行等について（これまでの把握事項と文部科学省の見解） | [Link](https://www.mext.go.jp/content/202600525-ope_dev02-000050128_1.pdf) | [PDFを閲覧](./202600525-ope_dev02-000050128_1.pdf) | 2026-05-28 |
 | 2026-05-22 | 京都府 | 同志社国際高等学校の研修旅行等について | [Link](https://www.pref.kyoto.jp/koho/kaiken/documents/26052202.pdf) | [PDFを閲覧](./26052202.pdf) | 2026-05-28 |
+| 特定不能 | 内閣官房 | 公益社団法人及び公益財団法人の認定等に関する法律の概要 | [Link](https://www.gyoukaku.go.jp/siryou/koueki/pdf/0602koueki_gaiyou.pdf) | [PDFを閲覧](./0602koueki_gaiyou.pdf) | 2026-05-28 |
 
 ## 利用規約・出典について
 
